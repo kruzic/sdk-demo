@@ -1,6 +1,6 @@
 # Kružić SDK Demo
 
-Ovo je demo projekat koji pokazuje kako koristiti `@kruzic/game-sdk` paket za integraciju igara sa Kružić platformom.
+Ovo je demo projekat koji pokazuje kako koristiti [`@kruzic/game-sdk`](https://github.com/kruzic/game-sdk) paket za integraciju igara sa [Kružić](https://kruzic.rs) platformom.
 
 ## Šta je Kružić SDK?
 
